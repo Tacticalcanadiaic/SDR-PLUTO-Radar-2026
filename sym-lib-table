@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "RF-Module-SDR2026")(type "KiCad")(uri "${KIPRJMOD}/RF-Module-SDR2026.kicad_sym")(options "")(descr ""))
+)
