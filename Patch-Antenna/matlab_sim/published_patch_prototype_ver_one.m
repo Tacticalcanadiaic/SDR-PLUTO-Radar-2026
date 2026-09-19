@@ -39,9 +39,9 @@ geom.boardX     = 50e-3;
 geom.boardY     = 50e-3;
 geom.boardThk   = 1.6e-3;
 
-geom.patchX     = 37.303e-3;         % patch width
+geom.patchX     = 27.503e-3;         % patch width
 geom.patchY     = 32.100e-3;         % patch length (resonant, along feed)
-geom.insetDepth = 8.000e-3;
+geom.insetDepth = 6.900e-3;
 geom.slotGap    = 0.750e-3;
 geom.feedWidth  = 3.000e-3;
 
